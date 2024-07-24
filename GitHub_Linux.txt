@@ -1,0 +1,5 @@
+GitHub Repostiories
+Steps
+1) git clone https://github.com/AllenGeo/sample.git
+2) cd sample : git status
+3) git add . : will add everything
